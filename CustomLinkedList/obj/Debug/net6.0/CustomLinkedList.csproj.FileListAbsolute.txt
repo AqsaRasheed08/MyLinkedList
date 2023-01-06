@@ -1,0 +1,12 @@
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.deps.json
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.dll
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\refint\CustomLinkedList.dll
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\Aqsa.Rasheed\Desktop\one to many\CustomLinkedList\obj\Debug\net6.0\ref\CustomLinkedList.dll
